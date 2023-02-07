@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @marceelp
-- 👀 I’m interested in becoming a successful coder and changing the world a little bit with some of my future projects.
-- 🌱 I’m currently learning JavaScript. Improving HTML and CSS as well.
-<!--- - 💞️ I’m looking to collaborate on ... --->
+- 👋 Hi, I’m @marceelp, u can call me Marcel :)
+- 👀 I’m interested in creating fun games with JavaScript.
+- 🌱 I’m currently learning JavaScript. I'm improving my HTML and CSS skills as well.
+- 🎮 I want to become a 3D game developer.
 - 📫 How to reach me : 
 - Instagram: marceelp
+
 
 <!---
 marceelp/marceelp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
