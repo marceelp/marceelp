@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @marceelp, u can call me Marcel
-- 🥷 I’m mainly interested in creating games and game-like stuff with JavaScript.
-- 🌱 I’m currently learning how to use Three.js, WebGL and I'm also learning C++.
-- 💻 Also improving HTML + CSS skills and from time to time other stuff like CMD.
-- 🎮 I wanna become a 3D game developer.
-- 👀 To see what I'm currently up to, check my profile
+- 💻 My skills: HTML, CSS, JavaScript, JS Canvas, Three.js (WebGL), React.js, Shell (zsh) 
+
+- 🌱 I’m currently learning/improving React.js, C++ and Shell.
+- 🥷 I like creating games and game-like stuff in my free time
+- 🎮 On my way to become a frontend developer
+
 - 📫 How to reach me : 
 - Instagram: marceelp
 - Slack: marceelp
+- Looking forward to get in touch with you! 🙌
